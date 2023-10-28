@@ -1,6 +1,6 @@
 # Stream-Practice
 
-- Java Stream의 기본 개념을 알고 있지만, 활용이 다소 어렵다고 느낀 분들을 위한 연습 문제들 입니다.
+- Java Stream의 기본 개념을 알고 있지만, 활용이 다소 어렵다고 느낀 분들을 위한 연습 문제를 모아놓은 레포입니다.
 
 ## Under Construction...
 ![Under Construction](construction.png)
